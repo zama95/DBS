@@ -1,0 +1,16 @@
+dbms full form data mengemant sytem
+Definition - What does Database Management System (DBMS) mean?
+A database management system (DBMS) is a software package designed to define, manipulate, retrieve and manage data in a database. A DBMS generally manipulates the data itself, the data format, field names, record structure and file structure. It also defines rules to validate and manipulate this data.
+
+A DBMS relieves users of framing programs for data maintenance. Fourth-generation query languages, such as SQL, are used along with the DBMS package to interact with a database.
+
+Some other DBMS examples include:
+
+MySQL
+echopedia explains Database Management System (DBMS)
+A database management system receives instruction from a database administrator (DBA) and accordingly instructs the system to make the necessary changes. These commands can be to load, retrieve or modify existing data from the system.
+
+A DBMS always provides data independence. Any change in storage mechanism and formats are performed without modifying the entire application. There are four main types of database organization:
+easy to learn dms Relational Database: Data is organized as logically independent tables. Relationships among tables are shown through shared data. The data in one table may reference similar data in other tables, which maintains the integrity of the links among them. This feature is referred to as referential integrity – an important concept in a relational database system. Operations such as "select" and "join" can be performed on these tables. This is the most widely used system of database organization.
+Flat Database: Data is organized in a single kind of record with a fixed number of fields. This database type encounters more errors due to the repetitive nature of data.
+Object-Oriented Database: Data is organized with similarity to object-oriented programming concepts. An object consists of data and methods, while classes group objects having similar data and methods.
